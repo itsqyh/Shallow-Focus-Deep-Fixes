@@ -1,4 +1,4 @@
-# Enhancing Attention Heads to Mitigating Object Hallucination in LVLMs
+# Shallow Focus, Deep Fixes: Enhancing Shallow Layers Vision Attention Sinks to Alleviate Hallucination in LVLMs (EMNLP'25 Oral)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-g.svg)](https://opensource.org/licenses/MIT)
 [![Arxiv](https://img.shields.io/badge/arXiv-2411.09968-B21A1B)](https://arxiv.org/abs/2411.09968)
